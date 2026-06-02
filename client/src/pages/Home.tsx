@@ -85,7 +85,7 @@ export default function Home() {
                 VER CATÁLOGO
               </a>
               <a
-                href="https://wa.me/5500000000000?text=Olá! Gostaria de solicitar um orçamento."
+                href="https://wa.me/5541999283623?text=Olá! Gostaria de solicitar um orçamento."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-cta bg-white/15 hover:bg-white/25 border border-white/30 text-white font-bold text-base px-8 py-4 rounded-lg backdrop-blur-sm transition-colors duration-150"
@@ -370,7 +370,7 @@ export default function Home() {
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-10">
               {[
-                { label: "WhatsApp", value: "(00) 00000-0000", href: "https://wa.me/5500000000000", icon: "💬" },
+                { label: "WhatsApp", value: "(41) 99928-3623", href: "https://wa.me/5541999283623", icon: "💬" },
                 { label: "E-mail", value: "contato@agropeso.com.br", href: "mailto:contato@agropeso.com.br", icon: "✉️" },
                 { label: "Horário", value: "Seg–Sex, 8h–18h", href: "#", icon: "🕐" },
               ].map((item) => (
@@ -389,7 +389,7 @@ export default function Home() {
             </div>
 
             <a
-              href="https://wa.me/5500000000000?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
+              href="https://wa.me/5541999283623?text=Olá! Gostaria de solicitar um orçamento para balanças de gado."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-cta inline-flex items-center gap-3 bg-amber hover:bg-amber-dark text-white font-bold text-lg px-10 py-4 rounded-xl shadow-lg transition-colors duration-150"
